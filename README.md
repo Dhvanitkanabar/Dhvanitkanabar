@@ -8,31 +8,31 @@
 
 # 👨‍💻 About Me
 
-🚀 Passionate **Full Stack Developer** focused on building scalable web applications and impactful digital solutions.
+🚀 Passionate **Full Stack Developer** focused on building scalable web applications and impactful digital products.
 
 - 💻 Skilled in **Frontend & Backend Development**
-- 🌱 Currently exploring **Advanced Backend & System Design**
 - 🔐 Interested in **Cybersecurity & Secure Systems**
 - 🧠 Strong background in **Mathematics & Problem Solving**
+- ⚡ Experienced with **React, MongoDB, Firebase**
 - 🏆 Active **Hackathon Builder & Tech Enthusiast**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css" />
 </p>
 
-### ⚡ Frontend Development
+### ⚡ Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
@@ -54,17 +54,39 @@
 
 # 🚀 Featured Projects
 
-### 🔹 CERS+ Emergency Response System
-AI-powered emergency reporting platform that enables faster incident reporting and improves coordination for response teams.
+## 🆘 CERS+ Emergency Response System
 
-### 🔹 Secure Communication Platform
-Privacy-focused messaging system implementing encrypted communication.
+A smart emergency reporting platform that allows citizens to instantly report incidents and helps authorities respond faster.
 
-### 🔹 Cybersecurity Awareness Platform
-Interactive educational platform designed to teach users about online threats and digital safety.
+🔗 **Live Demo**  
+https://cers-plus.web.app/
 
-### 🔹 Smart Canteen Management System
-Digital platform that optimizes food ordering and operations within campus canteens.
+---
+
+## 🔐 Secure Communication Platform
+
+Privacy-focused communication platform implementing secure messaging between users.
+
+🔗 **Live Demo**  
+https://secure-comm-jade.vercel.app/
+
+---
+
+## ✨ Aura – AI Productivity Platform
+
+Aura helps users improve productivity and workflow using intelligent tools and smart automation.
+
+🔗 **Live Demo**  
+https://aura-eight-phi.vercel.app/
+
+---
+
+## 🛡 Cybersecurity Awareness Platform
+
+Educational cybersecurity platform helping users learn about threats, attacks, and protection strategies.
+
+🔗 **Live Demo**  
+https://hackerspanel.netlify.app/
 
 ---
 
@@ -97,14 +119,6 @@ Digital platform that optimizes food ordering and operations within campus cante
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
