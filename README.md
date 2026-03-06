@@ -1,244 +1,105 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Dhvanit%20Kanabar&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20MongoDB%20%7C%20Cybersecurity&descAlignY=60&animation=fadeIn"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Dhvanit%20Kanabar&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Cybersecurity+Researcher;Hackathon+Builder;Building+Scalable+Solutions)](https://git.io/typing-svg)
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Full Stack Developer** dedicated to building modern, secure, and user-centric web applications. I thrive on solving complex problems and turning ideas into functional digital experiences.
+
+- 🚀 Currently scaling **CERS+** (Emergency Response System).
+- 🔐 Deeply interested in **Secure System Design** and **Penetration Testing**.
+- 🛠️ Constant learner, currently exploring **Advanced Backend Architectures**.
+- 🏆 Active participant in **Hackathons** and open-source collaboration.
+
+---
+
+### 🛠️ The Tech Stack
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Frontend-007ACC?style=for-the-badge&logo=react&logoColor=white" /><br/>
+      <code>React.js</code> <code>JavaScript</code><br/><code>Tailwind</code> <code>HTML/CSS</code>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <code>Node.js</code> <code>Express</code><br/><code>REST APIs</code> <code>C++</code>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+      <code>MongoDB</code> <code>Firebase</code><br/><code>PostgreSQL</code> <code>SQL</code>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Cybersecurity+Enthusiast;Hackathon+Builder;Always+Learning+New+Technologies"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,cpp,c,html,css,git,github,vscode,postman,tailwind,vercel" />
 </p>
 
 ---
 
-# 👋 Hello, I'm Dhvanit Kanabar
+### 🏮 Featured Projects
 
-I am a **Full Stack Developer** passionate about building modern web applications, solving real-world problems, and exploring emerging technologies.
-
-My interests lie in **web development, backend systems, cybersecurity, and scalable digital solutions**. I enjoy creating applications that combine strong functionality with clean user experiences.
-
-I continuously work on improving my development skills and contributing to innovative projects.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🆘 CERS+ Emergency Response</h4>
+      <a href="https://cers-plus.web.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=CERS&theme=tokyonight&hide_border=true" width="100%"/></a>
+      <p align="center">Real-time incident reporting and authority coordination platform.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ Aura AI Productivity</h4>
+      <a href="https://aura-eight-phi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=Aura&theme=tokyonight&hide_border=true" width="100%"/></a>
+      <p align="center">Intelligent task management system for high-performance workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 SecureComm</h4>
+      <a href="https://secure-comm-jade.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=SecureComm&theme=tokyonight&hide_border=true" width="100%"/></a>
+      <p align="center">Privacy-focused messaging with secure authentication.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ CyberAware</h4>
+      <a href="https://hackerspanel.netlify.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=Cybersecurity-Awareness&theme=tokyonight&hide_border=true" width="100%"/></a>
+      <p align="center">Educational platform for digital threat awareness.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
-
-- Building **full-stack web applications**
-- Learning **advanced backend development**
-- Exploring **secure system design**
-- Improving **problem-solving and algorithmic thinking**
-- Participating in **hackathons and project-based learning**
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-I have experience working with multiple programming languages for web development and problem-solving.
-
-- JavaScript
-- C++
-- C
-- HTML
-- CSS
+### 📊 Dev Metrics & Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhvanitkanabar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhvanitkanabar&theme=tokyonight" width="100%"/>
 </p>
 
 ---
 
-## Frontend Development
-
-I build responsive and user-friendly interfaces using modern frontend technologies.
-
-Key skills include:
-
-- Building interactive UI with **React**
-- Responsive design with **HTML & CSS**
-- Dynamic functionality with **JavaScript**
+### 🤝 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
----
-
-## Backend Development
-
-For backend systems, I work with technologies that allow scalable server-side development.
-
-Key areas include:
-
-- REST API development
-- Server-side logic
-- Integration with databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
----
-
-## Databases
-
-I work with modern databases to manage and store application data efficiently.
-
-- MongoDB
-- Firebase
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
----
-
-## Development Tools
-
-Tools that help streamline development, debugging, and collaboration.
-
-- Git
-- GitHub
-- VS Code
-- Postman
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-Below are some of the projects I have built to apply my skills in real-world scenarios.
-
----
-
-## 🆘 CERS+ Emergency Response System
-
-CERS+ is an emergency response platform designed to allow citizens to report incidents quickly and help authorities coordinate faster responses.
-
-Key Features:
-
-- Emergency incident reporting
-- Real-time coordination
-- User-friendly interface
-- Efficient communication workflow
-
-🔗 Live Application  
-https://cers-plus.web.app/
-
----
-
-## 🔐 Secure Communication Platform
-
-SecureComm is a communication platform focused on privacy and secure messaging between users.
-
-Key Features:
-
-- Secure user authentication
-- Messaging functionality
-- Privacy-focused architecture
-
-🔗 Live Application  
-https://secure-comm-jade.vercel.app/
-
----
-
-## ✨ Aura – AI Productivity Platform
-
-Aura is a productivity-focused web application designed to help users manage tasks and improve workflow efficiency.
-
-Key Features:
-
-- Task organization
-- Productivity tools
-- Clean user interface
-- Efficient workflow management
-
-🔗 Live Application  
-https://aura-eight-phi.vercel.app/
-
----
-
-## 🛡 Cybersecurity Awareness Platform
-
-This platform is designed to educate users about cybersecurity threats and best practices for staying safe online.
-
-Key Features:
-
-- Educational cybersecurity resources
-- Interactive learning modules
-- Awareness about digital threats
-
-🔗 Live Application  
-https://hackerspanel.netlify.app/
-
----
-
-# 📊 GitHub Statistics
-
-These statistics show my coding activity, language usage, and contributions.
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhvanitkanabar&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-Shows my consistent contribution activity on GitHub.
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Activity Graph
-
-Visual representation of my GitHub contributions over time.
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-Recognition badges earned through GitHub activity and contributions.
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-If you'd like to collaborate or connect professionally, feel free to reach out.
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-⭐ **Building technology that solves real-world problems and creates meaningful digital experiences.**
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=SYSTEM%20ACCESSES&color=0e75b6&style=flat-square"/>
+<br />
+<b>"Building technology that solves real-world problems."</b>
+</div>
