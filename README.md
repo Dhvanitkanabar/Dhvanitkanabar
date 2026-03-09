@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Cybersecurity+Enthusiast;Hackathon+Builder;Always+Learning+New+Technologies"/>
 </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0e5c-4c19-9c59-2c0c9c45b7b4.gif" width="420"/>
+</p>
+
 ---
 
 # 👋 Hello, I'm Dhvanit Kanabar
@@ -13,6 +17,14 @@ I am a **Full Stack Developer** passionate about building modern web application
 My interests lie in **web development, backend systems, cybersecurity, and scalable digital solutions**. I enjoy creating applications that combine strong functionality with clean user experiences.
 
 I continuously work on improving my development skills and contributing to innovative projects.
+
+---
+
+# 🌌 Hacker Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
+</p>
 
 ---
 
@@ -30,151 +42,101 @@ I continuously work on improving my development skills and contributing to innov
 
 ## Programming Languages
 
-I have experience working with multiple programming languages for web development and problem-solving.
-
-- JavaScript
-- C++
-- C
-- HTML
-- CSS
+- JavaScript  
+- C++  
+- C  
+- HTML  
+- CSS  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css"/>
 </p>
 
 ---
 
 ## Frontend Development
 
-I build responsive and user-friendly interfaces using modern frontend technologies.
-
-Key skills include:
-
-- Building interactive UI with **React**
-- Responsive design with **HTML & CSS**
-- Dynamic functionality with **JavaScript**
+- React  
+- HTML & CSS  
+- JavaScript  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
 </p>
 
 ---
 
 ## Backend Development
 
-For backend systems, I work with technologies that allow scalable server-side development.
-
-Key areas include:
-
-- REST API development
-- Server-side logic
-- Integration with databases
+- Node.js  
+- Express  
+- REST APIs  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ---
 
 ## Databases
 
-I work with modern databases to manage and store application data efficiently.
-
-- MongoDB
-- Firebase
+- MongoDB  
+- Firebase  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
 </p>
 
 ---
 
 ## Development Tools
 
-Tools that help streamline development, debugging, and collaboration.
-
-- Git
-- GitHub
-- VS Code
-- Postman
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-Below are some of the projects I have built to apply my skills in real-world scenarios.
-
----
-
 ## 🆘 CERS+ Emergency Response System
 
-CERS+ is an emergency response platform designed to allow citizens to report incidents quickly and help authorities coordinate faster responses.
+Emergency response platform allowing citizens to report incidents quickly.
 
-Key Features:
-
-- Emergency incident reporting
-- Real-time coordination
-- User-friendly interface
-- Efficient communication workflow
-
-🔗 Live Application  
-https://cers-plus.web.app/
+🔗 https://cers-plus.web.app/
 
 ---
 
 ## 🔐 Secure Communication Platform
 
-SecureComm is a communication platform focused on privacy and secure messaging between users.
+Privacy-focused messaging platform.
 
-Key Features:
-
-- Secure user authentication
-- Messaging functionality
-- Privacy-focused architecture
-
-🔗 Live Application  
-https://secure-comm-jade.vercel.app/
+🔗 https://secure-comm-jade.vercel.app/
 
 ---
 
 ## ✨ Aura – AI Productivity Platform
 
-Aura is a productivity-focused web application designed to help users manage tasks and improve workflow efficiency.
+Task management and productivity web application.
 
-Key Features:
-
-- Task organization
-- Productivity tools
-- Clean user interface
-- Efficient workflow management
-
-🔗 Live Application  
-https://aura-eight-phi.vercel.app/
+🔗 https://aura-eight-phi.vercel.app/
 
 ---
 
 ## 🛡 Cybersecurity Awareness Platform
 
-This platform is designed to educate users about cybersecurity threats and best practices for staying safe online.
+Platform educating users about cybersecurity threats.
 
-Key Features:
-
-- Educational cybersecurity resources
-- Interactive learning modules
-- Awareness about digital threats
-
-🔗 Live Application  
-https://hackerspanel.netlify.app/
+🔗 https://hackerspanel.netlify.app/
 
 ---
 
 # 📊 GitHub Statistics
-
-These statistics show my coding activity, language usage, and contributions.
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight"/>
@@ -185,8 +147,6 @@ These statistics show my coding activity, language usage, and contributions.
 
 # 🔥 GitHub Contribution Streak
 
-Shows my consistent contribution activity on GitHub.
-
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight"/>
 </p>
@@ -195,17 +155,21 @@ Shows my consistent contribution activity on GitHub.
 
 # 📈 Contribution Activity Graph
 
-Visual representation of my GitHub contributions over time.
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🧠 AI Coding Activity Tracker
 
-Recognition badges earned through GitHub activity and contributions.
+<p align="center">
+<img src="https://metrics.lecoq.io/Dhvanitkanabar?template=classic&config.timezone=Asia%2FCalcutta"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight"/>
@@ -213,9 +177,23 @@ Recognition badges earned through GitHub activity and contributions.
 
 ---
 
-# 🌐 Connect With Me
+# 🔥 3D Contribution Calendar
 
-If you'd like to collaborate or connect professionally, feel free to reach out.
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhvanitkanabar&theme=tokyonight"/>
+</p>
+
+---
+
+# 💡 Random Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -240,5 +218,15 @@ If you'd like to collaborate or connect professionally, feel free to reach out.
 </p>
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 ⭐ **Building technology that solves real-world problems and creates meaningful digital experiences.**
