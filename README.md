@@ -109,15 +109,15 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 <p align="center">
 
-<a href="#">
+<a href="https://www.linkedin.com/in/dhvanit-kanabar/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="#">
+<a href="https://portfolio-tau-lime-65.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
 </a>
 
-<a href="#">
+<a href="mailto:dhvanitkanabar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
