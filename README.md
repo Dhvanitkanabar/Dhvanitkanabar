@@ -72,21 +72,6 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 ---
 
-# 🚀 Featured Projects
-
-## 🆘 CERS+ Emergency Response System
-🔗 https://cers-plus.web.app/
-
-## 🔐 Secure Communication Platform
-🔗 https://secure-comm-jade.vercel.app/
-
-## ✨ Aura – AI Productivity Platform
-🔗 https://aura-eight-phi.vercel.app/
-
-## 🛡 Cybersecurity Awareness Platform
-🔗 https://hackerspanel.netlify.app/
-
----
 
 # 📊 GitHub Statistics
 
