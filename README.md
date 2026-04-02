@@ -16,12 +16,23 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 # 🎯 Current Focus
 
+<table>
+<tr>
+<td width="50%">
+
 - Building **full-stack web applications**
 - Learning **advanced backend development**
 - Exploring **secure system design**
-- Improving **problem-solving and algorithmic thinking**
-- Participating in **hackathons and project-based learning**
+- Improving **problem-solving and algorithms**
+- Participating in **hackathons**
 
+</td>
+
+<td width="50%">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+</tr>
+</table>
 ---
 
 # 🛠️ Technical Skills
@@ -30,7 +41,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 ## 💻 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,c,c++" />
 </p>
 
 ---
@@ -49,12 +60,6 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 ---
 
-## 🧠 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c" />
-</p>
-
----
 
 ## 🛠️ Tools & Technologies
 <p align="center">
