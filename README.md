@@ -29,7 +29,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 </td>
 
 <td width="50%">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+  <img src="https://svgshare.com/i/12uE.svg" width="100%" />
 </td>
 </tr>
 </table>
