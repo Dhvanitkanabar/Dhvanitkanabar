@@ -26,50 +26,40 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 # 🛠️ Technical Skills
 
-## Programming Languages
+---
 
-- JavaScript  
-- C++  
-- C  
-- HTML  
-- CSS  
-
+## 💻 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 </p>
 
 ---
 
-## Frontend Development
-
+## ⚙️ Backend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
 
-## Backend Development
-
+## 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
 ---
 
-## Databases
-
+## 🧠 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+  <img src="https://skillicons.dev/icons?i=js,cpp,c" />
 </p>
 
 ---
 
-## Development Tools
-
+## 🛠️ Tools & Technologies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
 ---
 
 
