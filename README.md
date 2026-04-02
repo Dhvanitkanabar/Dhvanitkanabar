@@ -29,9 +29,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 </td>
 
 <td width="50%">
-
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&lines=Building+Projects;Learning+Backend;Exploring+Security;Grinding+DSA;Hackathon+Mode+ON" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </td>
 </tr>
 </table>
