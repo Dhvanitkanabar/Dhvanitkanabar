@@ -35,6 +35,13 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 </table>
 ---
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+
 # 🛠️ Technical Skills
 
 ---
@@ -103,11 +110,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 </p>
 
----
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
