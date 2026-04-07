@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Cybersecurity+Enthusiast;Hackathon+Builder;Always+Learning+New+Technologies"/>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
@@ -35,16 +38,36 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 </table>
 ---
 
+
+
+---
+
+
+# 🌐 Connect With Me
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<a href="https://www.linkedin.com/in/dhvanit-kanabar/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://portfolio-tau-lime-65.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
+</a>
+
+<a href="mailto:dhvanitkanabar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
+
+
 
 ---
 
 
 # 🛠️ Technical Skills
 
----
 
 ## 💻 Frontend Development
 <p align="center">
@@ -92,27 +115,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dhvanit-kanabar/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://portfolio-tau-lime-65.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
-</a>
-
-<a href="mailto:dhvanitkanabar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
-
-
----
 
 # 🐍 Contribution Snake
 
