@@ -114,6 +114,24 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 
 ---
 
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/zrbt3DJG94?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+# 📈 LeetCode Progress
+
+<p align="center">
+<img src="https://leetcode-stats-six.vercel.app/?username=zrbt3DJG94&theme=dark" />
+</p>
+
+---
+
 
 
 # 🐍 Contribution Snake
