@@ -127,7 +127,7 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 # 📈 LeetCode Progress
 
 <p align="center">
-<img src="https://leetcode-stats-six.vercel.app/zrbt3DJG94&theme=dark" />
+<img src="https://leetcode-stats-six.vercel.app/?username=zrbt3DJG94&theme=dark" />
 </p>
 
 ---
