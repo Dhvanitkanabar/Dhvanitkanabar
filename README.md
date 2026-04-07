@@ -36,7 +36,6 @@ My interests lie in **web development, backend systems, cybersecurity, and scala
 </td>
 </tr>
 </table>
----
 
 
 
