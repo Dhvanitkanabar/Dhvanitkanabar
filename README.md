@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/Dhvanitkanabar?tab=followers"><img src="https://img.shields.io/github/followers/Dhvanitkanabar?label=Followers&style=flat-square&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/Dhvanitkanabar?tab=repositories"><img src="https://img.shields.io/github/repos/Dhvanitkanabar?label=Repositories&style=flat-square&color=0e75b6" alt="Repos" /></a>
 </div>
 
 ---
@@ -25,6 +26,7 @@ I am a **Full Stack Developer** passionate about building modern web application
 - 🔐 **Exploring**: Cybersecurity principles and secure system design
 - 🧠 **Solving**: Data Structures and Algorithms on LeetCode
 - 🚀 **Participating**: Active in hackathons and open-source contributions
+- ⚡ **Fun Fact**: I can debug code in my sleep (or at least dream about it).
 
 </td>
 <td width="40%" align="center">
@@ -35,6 +37,16 @@ I am a **Full Stack Developer** passionate about building modern web application
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Dhvanitkanabar's Trophies" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <details open>
@@ -42,7 +54,7 @@ I am a **Full Stack Developer** passionate about building modern web application
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,nextjs" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,nextjs,bootstrap,materialui" alt="Frontend Skills" />
     </a>
   </p>
 </details>
@@ -52,7 +64,7 @@ I am a **Full Stack Developer** passionate about building modern web application
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,redis" alt="Backend Skills" />
     </a>
   </p>
 </details>
@@ -62,10 +74,22 @@ I am a **Full Stack Developer** passionate about building modern web application
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,postman,docker,linux" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,postman,docker,linux,aws" alt="Tools" />
     </a>
   </p>
 </details>
+
+---
+
+### 🚀 Featured Projects (Hackathons & Open Source)
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project Name 1](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `React` `Node.js` `MongoDB` |
+| **[Project Name 2](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `Next.js` `TailwindCSS` `Firebase` |
+| **[Project Name 3](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `Express` `PostgreSQL` `Docker` |
+
+*(Note: Replace the links and descriptions above with your actual top projects!)*
 
 ---
 
@@ -102,6 +126,14 @@ I am a **Full Stack Developer** passionate about building modern web application
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+---
+
+### 💡 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
