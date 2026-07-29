@@ -96,9 +96,9 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&v=2" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="75%" />
+</div>
 
 <br/>
   
