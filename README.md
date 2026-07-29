@@ -95,21 +95,21 @@
 
 <h2 align="center">🔥 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=react&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&border_color=21262d&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhvanitkanabar&layout=compact&theme=react&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&border_color=21262d&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=2" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=react&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" width="50%" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=react&bg_color=0D1117&color=36BCF7&line=36BCF7&point=c9d1d9&hide_border=true&cache=1800" alt="Dhvanitkanabar's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=2" alt="Dhvanitkanabar's Activity Graph" />
 </div>
 
 <br/>
