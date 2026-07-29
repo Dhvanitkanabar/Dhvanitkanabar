@@ -37,6 +37,16 @@
 
 <br/>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- Trophies restored using standard parameters to maximize compatibility -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <details open>
@@ -85,15 +95,26 @@
 
 <h2 align="center">🔥 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=4" alt="Top Languages" width="48%" />
+  <!-- Restored the highly detailed summary cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight" alt="Detailed Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Restored the General Stats widget -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" width="48%" />
+  
+  <!-- Restored the Streak widget on demolab -->
+  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=4" alt="Dhvanitkanabar's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Dhvanitkanabar's Activity Graph" />
 </div>
 
 <br/>
