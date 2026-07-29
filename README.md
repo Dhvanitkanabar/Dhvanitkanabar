@@ -92,7 +92,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="50%" />
 </div>
 
 <br/>
