@@ -37,17 +37,7 @@
 
 <br/>
 
-<h2 align="center">🔥 GitHub Streak</h2>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="75%"
-  />
-</div>
-
-<br/>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -104,15 +94,18 @@
 
 <br/>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <div align="center">
-  <!-- Restored the General Stats widget -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" width="48%" />
-  
-  <!-- Restored the Streak widget on demolab -->
-  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="75%"
+  />
 </div>
 
 <br/>
+  
 
 <h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
