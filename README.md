@@ -26,7 +26,10 @@ I am a **Full Stack Developer** passionate about building modern web application
 - 🔐 **Exploring**: Cybersecurity principles and secure system design
 - 🧠 **Solving**: Data Structures and Algorithms on LeetCode
 - 🚀 **Participating**: Active in hackathons and open-source contributions
-- ⚡ **Fun Fact**: I can debug code in my sleep (or at least dream about it).
+
+#### 💬 Let's chat about:
+- `Frontend Frameworks` `Backend Architectures` `Open Source`
+- `Database Design` `Tech Careers` `Cybersecurity Trends`
 
 </td>
 <td width="40%" align="center">
@@ -81,15 +84,15 @@ I am a **Full Stack Developer** passionate about building modern web application
 
 ---
 
-### 🚀 Featured Projects (Hackathons & Open Source)
+### 🚀 Featured Projects & Hackathons
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `React` `Node.js` `MongoDB` |
-| **[Project Name 2](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `Next.js` `TailwindCSS` `Firebase` |
-| **[Project Name 3](https://github.com/Dhvanitkanabar)** | A brief description of what this project does and the problem it solves. | `Express` `PostgreSQL` `Docker` |
+| **[🚀 Full Stack Ecommerce](#)** | A complete eCommerce platform featuring user auth, cart management, and payment gateway integration. | `React` `Node.js` `MongoDB` |
+| **[🛡️ Secure Vault App](#)** | A cybersecurity-focused application implementing end-to-end encryption for storing sensitive user data. | `Next.js` `Tailwind` `Firebase` |
+| **[🏆 Hackathon Winner Repo](#)** | My team's winning submission for [Hackathon Name]. A real-time collaboration tool for developers. | `Express` `WebSockets` `PostgreSQL` |
 
-*(Note: Replace the links and descriptions above with your actual top projects!)*
+*(Note: Don't forget to update the project names, links, and descriptions above with your actual work!)*
 
 ---
 
@@ -103,7 +106,16 @@ I am a **Full Stack Developer** passionate about building modern web application
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Dhvanitkanabar's Activity Graph" />
 </div>
 
 ---
@@ -121,11 +133,7 @@ I am a **Full Stack Developer** passionate about building modern web application
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Dhvanitkanabar/Dhvanitkanabar/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
