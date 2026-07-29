@@ -41,7 +41,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Dhvanitkanabar's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&v=1" alt="Dhvanitkanabar's Trophies" />
   </a>
 </div>
 
