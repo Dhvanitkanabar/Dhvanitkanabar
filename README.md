@@ -37,15 +37,6 @@
 
 <br/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&v=1" alt="Dhvanitkanabar's Trophies" />
-  </a>
-</div>
-
-<br/>
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <details open>
@@ -94,22 +85,15 @@
 
 <h2 align="center">🔥 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=3" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- FIX IS RIGHT HERE: USING VERCEL.APP SERVER -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=4" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=3" alt="Dhvanitkanabar's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=4" alt="Dhvanitkanabar's Activity Graph" />
 </div>
 
 <br/>
