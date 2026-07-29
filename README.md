@@ -106,8 +106,8 @@ I am a **Full Stack Developer** passionate about building modern web application
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="General Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&theme=tokyonight&show_icons=true" alt="General Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
