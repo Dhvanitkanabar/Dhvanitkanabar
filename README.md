@@ -103,13 +103,6 @@ I am a **Full Stack Developer** passionate about building modern web application
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&theme=tokyonight&show_icons=true" alt="General Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
-
 ---
 
 ### 📊 GitHub Activity Graph
