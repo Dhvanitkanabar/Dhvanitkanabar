@@ -37,12 +37,14 @@
 
 <br/>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Trophies restored using standard parameters to maximize compatibility -->
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="75%"
+  />
 </div>
 
 <br/>
