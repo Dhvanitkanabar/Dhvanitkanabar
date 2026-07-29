@@ -16,34 +16,24 @@
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
-    <td align="left" width="60%" style="border: none; background-color: transparent;">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🔭 <b>Building:</b> Scalable full-stack web applications and APIs</li>
-        <li>📚 <b>Learning:</b> Advanced backend architecture and system design</li>
-        <li>🔐 <b>Exploring:</b> Cybersecurity principles and secure systems</li>
-        <li>🧠 <b>Solving:</b> Data Structures and Algorithms on LeetCode</li>
-        <li>🚀 <b>Participating:</b> Active in hackathons and open-source</li>
-      </ul>
+    <td align="left" width="55%" style="border: none; background-color: transparent;">
+      <h2>👨‍💻 Who am I?</h2>
+      <p style="font-size: 16px;">
+        Hey, I'm Dhvanit! 🚀<br/><br/>
+        I'm a passionate <b>Full Stack Developer</b> and <b>Cybersecurity Enthusiast</b> who loves building robust, scalable web applications from the ground up.<br/><br/>
+        Whether it's crafting pixel-perfect frontend experiences with React, designing resilient backend architectures in Node.js, or securing database systems, I thrive on turning complex problems into elegant solutions.<br/><br/>
+        When I'm not pushing code, you can find me competing in hackathons, exploring the latest in tech, or optimizing my LeetCode solutions. Let's build something amazing together! 💡
+      </p>
       <br/>
       <h2>💬 Let's chat about:</h2>
-      <code>Frontend Frameworks</code> <code>Backend Architectures</code> <code>Open Source</code><br/>
-      <code>Database Design</code> <code>Tech Careers</code> <code>Cybersecurity Trends</code>
+      <code>Frontend Architecture</code> <code>API Design</code> <code>Open Source</code><br/>
+      <code>Cybersecurity Trends</code> <code>Tech Careers</code> <code>Hackathons</code>
     </td>
-    <td align="center" width="40%" style="border: none; background-color: transparent;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="Coding GIF"/>
+    <td align="center" width="45%" style="border: none; background-color: transparent;">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Aesthetic Coding GIF" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&v=1" alt="Dhvanitkanabar's Trophies" />
-  </a>
-</div>
 
 <br/>
 
@@ -89,27 +79,27 @@
 | **[🛡️ Secure Vault App](#)** | A cybersecurity-focused application implementing end-to-end encryption for storing sensitive user data. | `Next.js` `Tailwind` `Firebase` |
 | **[🏆 Hackathon Winner Repo](#)** | My team's winning submission for [Hackathon Name]. A real-time collaboration tool for developers. | `Express` `WebSockets` `PostgreSQL` |
 
-*(Note: Replace the dummy links and descriptions with your actual repositories!)*
+*(Note: Don't forget to update the project names and links!)*
 
 <br/>
 
 <h2 align="center">🔥 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=2" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight&v=3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight&v=3" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" width="50%" />
 </div>
 
 <br/>
 
 <h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=2" alt="Dhvanitkanabar's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhvanitkanabar&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=3" alt="Dhvanitkanabar's Activity Graph" />
 </div>
 
 <br/>
