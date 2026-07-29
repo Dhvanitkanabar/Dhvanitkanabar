@@ -37,6 +37,15 @@
 
 <br/>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dhvanitkanabar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&v=1" alt="Dhvanitkanabar's Trophies" />
+  </a>
+</div>
+
+<br/>
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <details open>
@@ -92,7 +101,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight" alt="GitHub Streak" width="50%" />
+  <!-- FIX IS RIGHT HERE: USING VERCEL.APP SERVER -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
 </div>
 
 <br/>
