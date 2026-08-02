@@ -107,29 +107,84 @@ Hi, I'm <b>Dhvanit Kanabar</b> 👋
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Links</th>
+</tr>
 
-<a href="https://github.com/Dhvanitkanabar/fasalrakshak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=fasalrakshak&theme=tokyonight" />
-</a>
+<tr>
+<td><b>🌾 FasalRakshak</b></td>
+<td>
+AI-powered crop disease detection platform featuring image-based diagnosis, multilingual support, weather-based recommendations, and an offline-first architecture for farmers.
+</td>
+<td>
 
-<a href="https://github.com/Dhvanitkanabar/Aura">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=Aura&theme=tokyonight" />
-</a>
+`React` `Node.js` `TensorFlow` `Firebase`
 
-</p>
+</td>
+<td>
 
-<p align="center">
+<a href="https://github.com/Dhvanitkanabar/fasalrakshak">GitHub ↗</a>
 
-<a href="https://github.com/Dhvanitkanabar/CERS-Plus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=CERS-Plus&theme=tokyonight" />
-</a>
+</td>
+</tr>
 
-<a href="https://github.com/Dhvanitkanabar/repo-reboot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=repo-reboot&theme=tokyonight" />
-</a>
+<tr>
+<td><b>🤖 Aura</b></td>
+<td>
+AI-powered productivity platform that transforms natural language goals into structured task plans using Gemini API, Firebase Authentication, Firestore, and Framer Motion.
+</td>
+<td>
 
-</p>
+`Next.js` `Firebase` `Gemini API` `Framer Motion`
+
+</td>
+<td>
+
+<a href="YOUR_AURA_REPO_LINK">GitHub ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>🚑 CERS+</b></td>
+<td>
+Centralized Emergency Response System providing real-time alerts, GPS tracking, and efficient emergency coordination.
+</td>
+<td>
+
+`React` `Node.js` `MongoDB`
+
+</td>
+<td>
+
+<a href="YOUR_CERS_REPO_LINK">GitHub ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>📦 Repo-Reboot</b></td>
+<td>
+GitHub repository analyzer and README enhancement tool designed to improve project documentation and developer productivity.
+</td>
+<td>
+
+`React` `GitHub API` `JavaScript`
+
+</td>
+<td>
+
+<a href="YOUR_REPO_REBOOT_LINK">GitHub ↗</a>
+
+</td>
+</tr>
+
+</table>
+
 <br/>
 
 <h2 align="center">🔥 GitHub Statistics</h2>
