@@ -191,14 +191,7 @@ GitHub repository analyzer and README enhancement tool designed to improve proje
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight" width="49%" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" />
-</p>
 
 <br/>
   
