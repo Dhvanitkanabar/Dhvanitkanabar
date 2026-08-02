@@ -189,9 +189,7 @@ GitHub repository analyzer and README enhancement tool designed to improve proje
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhvanitkanabar&theme=tokyonight" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight" width="49%" />
