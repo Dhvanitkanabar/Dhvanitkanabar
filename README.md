@@ -105,16 +105,31 @@ Hi, I'm <b>Dhvanit Kanabar</b> 👋
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects & Hackathons</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[🚀 Full Stack Ecommerce](#)** | A complete eCommerce platform featuring user auth, cart management, and payment gateway integration. | `React` `Node.js` `MongoDB` |
-| **[🛡️ Secure Vault App](#)** | A cybersecurity-focused application implementing end-to-end encryption for storing sensitive user data. | `Next.js` `Tailwind` `Firebase` |
-| **[🏆 Hackathon Winner Repo](#)** | My team's winning submission for [Hackathon Name]. A real-time collaboration tool for developers. | `Express` `WebSockets` `PostgreSQL` |
+<p align="center">
 
-*(Note: Don't forget to update the project names and links!)*
+<a href="https://github.com/Dhvanitkanabar/fasalrakshak">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=fasalrakshak&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/Dhvanitkanabar/Aura">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=Aura&theme=tokyonight" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Dhvanitkanabar/CERS-Plus">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=CERS-Plus&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Dhvanitkanabar/repo-reboot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhvanitkanabar&repo=repo-reboot&theme=tokyonight" />
+</a>
+
+</p>
 <br/>
 
 <h2 align="center">🔥 GitHub Statistics</h2>
