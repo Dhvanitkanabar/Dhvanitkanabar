@@ -187,7 +187,13 @@ GitHub repository analyzer and README enhancement tool designed to improve proje
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🔥 GitHub Contributions & Streak</h2>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Dhvanitkanabar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats" width="48%" />
+
+  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
 
 
