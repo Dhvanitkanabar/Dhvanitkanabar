@@ -187,20 +187,16 @@ GitHub repository analyzer and README enhancement tool designed to improve proje
 
 <br/>
 
-<h2 align="center">🔥 GitHub Statistics</h2>
-<div align="center">
-  <!-- Restored the highly detailed summary cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight" alt="Detailed Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight" alt="Top Languages" width="48%" />
-</div>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhvanitkanabar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="75%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <br/>
   
