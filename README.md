@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dhvanit%20Kanabar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Developer%20•%20AWS%20Student%20Builder%20Campus%20Leader&descColor=E6EDF3&descSize=20&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dhvanit%20Kanabar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descColor=E6EDF3&descSize=20&descAlignY=60&animation=fadeIn"/>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Application+Developer;AWS+Student+Builder+Campus+Leader;Hackathon+Builder;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Application+Developer;Cybersecurity+Enthusiast;Hackathon+Builder;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
   <img src="https://img.shields.io/badge/Open%20to-Internships-36BCF7?style=for-the-badge" alt="Open to Internships" />
 
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20AWS-1F6FEB?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20Cybersecurity-1F6FEB?style=for-the-badge" alt="Focus" />
 </div>
 
 <br/>
@@ -25,40 +25,47 @@
 
 <td width="60%">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-Hi, I'm **Dhvanit Kanabar** 👋
+Hi, I'm <b>Dhvanit Kanabar</b> 👋
 
-- 💻 Computer Engineering Student
-- 🚀 Full Stack Developer
-- 🤖 AI Enthusiast
-- ☁️ AWS Student Builder Campus Leader
-- 🏆 Runner-Up – Tech Expo 2026
-- 🥈 2nd Place – ElectroSphere Hackathon
-- 🌱 Currently learning System Design & Cloud Computing
-- ❤️ Love building scalable products
+<ul>
+  <li>💻 Computer Engineering Student</li>
+  <li>🚀 Full Stack Developer</li>
+  <li>🤖 Passionate about AI & Machine Learning</li>
+  <li>🔐 Cybersecurity Enthusiast</li>
+  <li>🏆 Runner-Up – Tech Expo 2026</li>
+  <li>🥈 2nd Place – ElectroSphere Hackathon</li>
+  <li>🌱 Currently learning Cloud Computing, System Design & Advanced Backend Development</li>
+  <li>❤️ I enjoy building scalable, real-world software solutions.</li>
+</ul>
 
-### 💬 Ask Me About
+<h3>💬 Ask Me About</h3>
 
-- React.js
-- Next.js
-- Node.js
-- MongoDB
-- Firebase
-- AI
-- Cybersecurity
-- Hackathons
+<p>
+<code>React.js</code>
+<code>Next.js</code>
+<code>Node.js</code>
+<code>MongoDB</code>
+<code>Firebase</code><br><br>
+<code>Artificial Intelligence</code>
+<code>Cybersecurity</code>
+<code>REST APIs</code>
+<code>Open Source</code>
+<code>Hackathons</code>
+</p>
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Coding GIF"/>
 
 </td>
 
 </tr>
 </table>
+
 
 <br/>
 
