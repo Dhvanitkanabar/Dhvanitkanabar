@@ -74,31 +74,31 @@ Hi, I'm <b>Dhvanit Kanabar</b> 👋
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <details open>
-  <summary><b>Frontend Development</b></summary>
+  <summary><b>🎨 Frontend Development</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite,nextjs,bootstrap,materialui" alt="Frontend Skills" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,materialui,figma" alt="Frontend Skills" />
     </a>
   </p>
 </details>
 
 <details open>
-  <summary><b>Backend & Databases</b></summary>
+  <summary><b>⚙️ Backend & Databases</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres,redis" alt="Backend Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis" alt="Backend Skills" />
     </a>
   </p>
 </details>
 
 <details open>
-  <summary><b>Languages & Tools</b></summary>
+  <summary><b>🧰 Languages & Developer Tools</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,postman,docker,linux,aws" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,postman,docker,linux,aws" alt="Developer Tools" />
     </a>
   </p>
 </details>
