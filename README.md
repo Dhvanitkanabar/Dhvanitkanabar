@@ -190,12 +190,16 @@ GitHub repository analyzer and README enhancement tool designed to improve proje
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhvanitkanabar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhvanitkanabar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhvanitkanabar&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhvanitkanabar&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhvanitkanabar&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dhvanitkanabar&theme=tokyonight&hide_border=true" />
 </p>
 
 <br/>
