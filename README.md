@@ -1,38 +1,63 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:161b22,100:36BCF7&text=Dhvanit%20Kanabar&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20MongoDB%20%7C%20Cybersecurity&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Dhvanit%20Kanabar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Developer%20•%20AWS%20Student%20Builder%20Campus%20Leader&descColor=E6EDF3&descSize=20&descAlignY=60&animation=fadeIn"/>
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+MongoDB;Cybersecurity+Enthusiast;Hackathon+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Application+Developer;AWS+Student+Builder+Campus+Leader;Hackathon+Builder;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhvanitkanabar&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Dhvanitkanabar?tab=followers"><img src="https://img.shields.io/github/followers/Dhvanitkanabar?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" /></a>
-  <a href="https://github.com/Dhvanitkanabar?tab=repositories"><img src="https://img.shields.io/github/repos/Dhvanitkanabar?label=Repositories&style=for-the-badge&color=36BCF7" alt="Repos" /></a>
+
+  <a href="https://github.com/Dhvanitkanabar?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dhvanitkanabar?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20to-Internships-36BCF7?style=for-the-badge" alt="Open to Internships" />
+
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20AI%20%7C%20AWS-1F6FEB?style=for-the-badge" alt="Focus" />
 </div>
 
 <br/>
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="left" width="55%" style="border: none; background-color: transparent;">
-      <h2>👨‍💻 Who am I?</h2>
-      <p style="font-size: 16px;">
-        Hey, I'm Dhvanit! 🚀<br/><br/>
-        I'm a passionate <b>Full Stack Developer</b> and <b>Cybersecurity Enthusiast</b> who loves building robust, scalable web applications from the ground up.<br/><br/>
-        Whether it's crafting pixel-perfect frontend experiences with React, designing resilient backend architectures in Node.js, or securing database systems, I thrive on turning complex problems into elegant solutions.<br/><br/>
-        When I'm not pushing code, you can find me competing in hackathons, exploring the latest in tech, or optimizing my LeetCode solutions. Let's build something amazing together! 💡
-      </p>
-      <br/>
-      <h2>💬 Let's chat about:</h2>
-      <code>Frontend Architecture</code> <code>API Design</code> <code>Open Source</code><br/>
-      <code>Cybersecurity Trends</code> <code>Tech Careers</code> <code>Hackathons</code>
-    </td>
-    <td align="center" width="45%" style="border: none; background-color: transparent;">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Aesthetic Coding GIF" style="border-radius: 10px;"/>
-    </td>
-  </tr>
+<table>
+<tr>
+
+<td width="60%">
+
+## 👨‍💻 About Me
+
+Hi, I'm **Dhvanit Kanabar** 👋
+
+- 💻 Computer Engineering Student
+- 🚀 Full Stack Developer
+- 🤖 AI Enthusiast
+- ☁️ AWS Student Builder Campus Leader
+- 🏆 Runner-Up – Tech Expo 2026
+- 🥈 2nd Place – ElectroSphere Hackathon
+- 🌱 Currently learning System Design & Cloud Computing
+- ❤️ Love building scalable products
+
+### 💬 Ask Me About
+
+- React.js
+- Next.js
+- Node.js
+- MongoDB
+- Firebase
+- AI
+- Cybersecurity
+- Hackathons
+
+</td>
+
+<td width="40%">
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%"/>
+
+</td>
+
+</tr>
 </table>
 
 <br/>
